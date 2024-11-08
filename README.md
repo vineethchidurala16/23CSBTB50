@@ -6,3 +6,4 @@ https://github.com/vineethchidurala16/23CSBTB50/blob/main/Assignment-3(Aiml).ipy
 https://github.com/vineethchidurala16/23CSBTB50/blob/main/Assignment-4(Aiml).ipynb
 https://github.com/vineethchidurala16/23CSBTB50/blob/main/Assignment-5(Aiml).ipynb
 https://github.com/vineethchidurala16/23CSBTB50/blob/main/Assignment-6(Aiml).ipynb
+https://github.com/vineethchidurala16/23CSBTB50/blob/main/Exam(52447).ipynb
